@@ -1,5 +1,5 @@
 # Ad Tag Checker
-Parses HTML code of embedded ads and returns all embedded URLs in a text file
+Parses HTML code of embedded ads and returns (in text files) all reachable URLs by clicking the ad
 
 To run, drag an excel sheet containing the "Internal Redirect Tags" to the input folder. **The format must match the expected format**
 
