@@ -1,0 +1,7 @@
+# install with sudo pip install -r requirements.txt
+numpy
+pandas
+requests
+contextlib
+bs4
+os
