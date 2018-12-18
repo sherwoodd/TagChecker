@@ -2,6 +2,4 @@
 numpy
 pandas
 requests
-contextlib
 bs4
-os
