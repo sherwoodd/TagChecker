@@ -1,4 +1,9 @@
-This is https://ad.doubleclick.net/ddm/adi/N3148.289965.REMEDYHEALTHMEDIA.C/B22083972.235985001;sz=300x600
+
+Advertiser ID: 8324159
+Advertiser Name: Pfizer Inc. - Xeljanz UC
+Campaign ID: 22083972
+Campaign Name: 2019_Pfizer_Display_IMB_Xeljanz UC_XUC_Branded_DTC_Sponsorship
+Ad: https://ad.doubleclick.net/ddm/adi/N3148.289965.REMEDYHEALTHMEDIA.C/B22083972.235985001;sz=300x600
 
 
 
@@ -7,10 +12,10 @@ This is https://ad.doubleclick.net/ddm/adi/N3148.289965.REMEDYHEALTHMEDIA.C/B220
 
 
 Name: xeljanz logo
-Full URL: https://uc.xeljanz.com?src_code\x3dXELW10031983\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dxeljanz%20logo\x26utm_content\x3dbridge%20banner\x26o\x3d235985001|433361813|109533709
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dxeljanz%20logo\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
-Name: couple image
-Full URL: https://uc.xeljanz.com?src_code\x3dXELW10031983\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dcouple%20image\x26utm_content\x3dbridge%20banner\x26o\x3d235985001|433361813|109533709
+Name: man image
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dman%20image\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
 Name: http://labeling.pfizer.com/ShowLabeling.aspx?id
 Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959
@@ -18,49 +23,34 @@ Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959
 Name: http://labeling.pfizer.com/ShowLabeling.aspx?id
 Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959\x26section\x3dMedGuide
 
-Name: bridge image
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031983\x26utm_source\x3d%25esid!\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dbridge%20image\x26utm_content\x3dbridge%20banner\x26o\x3d235985001|433361813|109533709
+Name: family image
+Full URL: https://uc.xeljanz.com?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dfamily%20image\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
 Name: get facts cta
-Full URL: https://uc.xeljanz.com?src_code\x3dXELW10031983\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dget%20facts%20cta\x26utm_content\x3dbridge%20banner\x26o\x3d235985001|433361813|109533709
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dget%20facts%20cta\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
 Name: http://www.fda.gov/Safety/MedWatch/default.htm
 Full URL: http://www.fda.gov/Safety/MedWatch/default.htm
 
 Name: terms and conditions
-Full URL: https://uc.xeljanz.com/financial-support?src_code\x3dXELW10031983\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dterms%20and%20conditions\x26utm_content\x3dbridge%20banner\x26o\x3d235985001|433361813|109533709
+Full URL: https://uc.xeljanz.com/financial-support?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dterms%20and%20conditions\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
 Name: https://www.pfizer.com/?o
-Full URL: https://www.pfizer.com/?o\x3d235985001|433361813|109533709
+Full URL: https://www.pfizer.com/?o\x3d235985001|433361813|110154498
 
 Name: click image
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031581\x26utm_source\x3d%25esid!\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20image\x26utm_content\x3dunbranded%20static\x26o\x3d235985001|433361813|109533709
+Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031581\x26utm_source\x3d%25esid!\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20image\x26utm_content\x3dunbranded%20static\x26o\x3d235985001|433361813|110154498
 
 
 
 ######################### REFRESH PAGE #########################
 
 
-Name: click frame1
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20frame1\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
-
-Name: learn how here
-Full URL: https://uc.xeljanz.com/financial-support/xelsource?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dlearn%20how%20here\x26utm_content\x3dnow%20approved\x26o\x3d235985001|433361813|108437734
-
-Name: click frame2
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20frame2\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
-
-Name: click frame3
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20frame3\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
-
-Name: click frame4
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20frame4\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
-
 Name: xeljanz logo
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dxeljanz%20logo\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dxeljanz%20logo\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
-Name: visit our site cta
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dvisit%20our%20site%20cta\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
+Name: man image
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dman%20image\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
 Name: http://labeling.pfizer.com/ShowLabeling.aspx?id
 Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959
@@ -68,11 +58,23 @@ Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959
 Name: http://labeling.pfizer.com/ShowLabeling.aspx?id
 Full URL: http://labeling.pfizer.com/ShowLabeling.aspx?id\x3d959\x26section\x3dMedGuide
 
-Name: http://www.fda.gov/Medwatch
-Full URL: http://www.fda.gov/Medwatch
+Name: family image
+Full URL: https://uc.xeljanz.com?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dfamily%20image\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
 
-Name: click frame1
-Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031580\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20frame1\x26utm_content\x3dfda%20approved\x26o\x3d235985001|433361813|108437734
+Name: get facts cta
+Full URL: http://uc.xeljanz.com/?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dget%20facts%20cta\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
+
+Name: http://www.fda.gov/Safety/MedWatch/default.htm
+Full URL: http://www.fda.gov/Safety/MedWatch/default.htm
+
+Name: terms and conditions
+Full URL: https://uc.xeljanz.com/financial-support?src_code\x3dXELW10032043\x26utm_source\x3d1080915\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dterms%20and%20conditions\x26utm_content\x3dfootball%20banner\x26o\x3d235985001|433361813|110154498
+
+Name: https://www.pfizer.com/?o
+Full URL: https://www.pfizer.com/?o\x3d235985001|433361813|110154498
+
+Name: click image
+Full URL: https://uc.xeljanz.com/?src_code\x3dXELW10031581\x26utm_source\x3d%25esid!\x26utm_medium\x3dbanner\x26utm_campaign\x3dgen%20awareness\x26utm_term\x3dclick%20image\x26utm_content\x3dunbranded%20static\x26o\x3d235985001|433361813|110154498
 
 
 

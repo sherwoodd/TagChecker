@@ -70,7 +70,10 @@ if not os.path.exists(folder):
 
 for x in range(len(urls)):
     filename = folder+'/ad'+str(x+1)+'.txt'
-    print("This is " + urls[x], file=open(filename,"w"))
+    print(file=open(filename,"w"))
+    for key in metadata.keys():
+        print(key + ': ' + metadata[key], file=open(filename,"a"))
+    print("Ad: " + urls[x], file=open(filename,"a"))
     print('\n',file=open(filename,"a"))
 
     for r in range(RELOADS):
